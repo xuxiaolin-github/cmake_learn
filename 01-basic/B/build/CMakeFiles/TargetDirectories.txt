@@ -1,0 +1,3 @@
+/home/xuxiaolin/cmake_learn/01-basic/B/build/CMakeFiles/rebuild_cache.dir
+/home/xuxiaolin/cmake_learn/01-basic/B/build/CMakeFiles/hello_headers.dir
+/home/xuxiaolin/cmake_learn/01-basic/B/build/CMakeFiles/edit_cache.dir
